@@ -1,0 +1,26 @@
+crear el entorno virtual
+montamos el entorno virtual
+instalar las dependencias (ipykernel) en caso de no tener un requirements.txt (que donde se guardan todas la dependencias necesarias para ejecutar nuestra aplicación)
+crear el requeriments.txt
+programar
+
+UV vamos a usar con pip, para agilizar la instalación de dependencias
+
+jupiter notebook - la interfaz donde vamos escribir el código
+Python - el lenguaje que vamos a usar para codificar
+env - el entorno virtual o el contenedor donde crearemos nuestro codigo
+
+comandos
+pip install ipykernel
+pip list
+pip freeze
+pip freeze >> requeriments.txt
+py -m venv env
+pip install -r requeriments.txt
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex" (para instalar UV)
+uv --version
+deactivate
+Remove-Item -Recurse -Force env 
+uv venv env
+env/Scripts/activate  
+uv pip install -r requirements.txt
