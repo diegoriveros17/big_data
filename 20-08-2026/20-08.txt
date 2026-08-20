@@ -1,0 +1,1 @@
+py-> if(tokenisacion)-> (sintaxsis)-> (PVM Python virtual machine) ->(BC - bytes code, Windows, Linux, mac)
