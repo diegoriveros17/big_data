@@ -1,0 +1,12 @@
+id_cliente,segmento,limite_credito,email_contacto
+CLI-001,Corporativo,500000.0,contacto@empresa1.com
+CLI-002,Consumidor Final,150000.0,juan.p@gmail.com
+CLI-003,Consumidor Final,120000.0,maria.l@hotmail.com
+CLI-004,PyME,350000.0,ventas@pyme1.com
+CLI-005,Corporativo,800000.0,info@corp2.com
+CLI-006,Consumidor Final,90000.0,carlos.g@gmail.com
+CLI-007,PyME,400000.0,admin@pyme2.com
+CLI-008,Consumidor Final,200000.0,ana.f@yahoo.com
+CLI-009,Corporativo,650000.0,compras@corp3.com
+CLI-010,Consumidor Final,110000.0,lucia.m@outlook.com
+CLI-011,PyME,300000.0,gerencia@pyme3.com

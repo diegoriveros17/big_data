@@ -1,0 +1,156 @@
+id_venta,id_cliente,cliente,ciudad,categoria,producto,cantidad,importe,metodo_pago,fecha
+VTA-1081,CLI-003, Juan Perez , Buenos Aires,indumentaria,Buzo Canguro,1,60751.9,Transferencia,03/06/2024
+VTA-1142,CLI-008,Lucia Morales,Rosario ,Hogar,Cafetera Express,1,5523.75,EFECTIVO,2024-03-24
+VTA-1031,CLI-007,maria lopez, Buenos Aires,Electrónica,Auriculares Bluetooth,1,131699.7,EFECTIVO,2024-04-02
+VTA-1029,CLI-005,JUAN PEREZ,Córdoba,INDUMENTARIA,Campera Invierno,4,344514.47,EFECTIVO,2024/02/14
+VTA-1118,CLI-003,MARTIN RODRIGUEZ, Buenos Aires,hogar,Aspiradora Robot,1,31963.24,tarjeta de debito,18/05/2024
+VTA-1060,CLI-007,lucia morales,mendoza,alimentos,Caja Alfajores x12,2,279839.13,tarjeta de debito,2024/05/12
+VTA-1093,CLI-008,Juan PEREZ,Rosario ,hogar,Cafetera Express,3,205963.09,Mercado Pago,2024/06/04
+VTA-1147,CLI-001,MARIA LOPEZ ,mendoza,Electrónica,Teclado Mecánico,2,,Tarjeta de Crédito,01/04/2024
+VTA-1040,CLI-005,Maria Lopez  ,rosario,Alimentos,Café en Grano 1kg,1,35543.83,EFECTIVO,2024/01/06
+VTA-1068,CLI-009,lucia morales,La Plata,INDUMENTARIA,Remera Algodón,1,64483.4,EFECTIVO,2024-04-16
+VTA-1042,CLI-004,carlos gomez,Córdoba,electronica,Auriculares Bluetooth,1,108425.43,Transferencia,20/03/2024
+VTA-1138,CLI-009, Juan Perez ,La Plata,alimentos,Café en Grano 1kg,2,10539.75,EFECTIVO,25/04/2024
+VTA-1078,CLI-001,maria lopez,,alimentos,Aceite de Oliva 500ml,1,130679.61,Tarjeta de Crédito,08/02/2024
+VTA-1075,CLI-008,  Lucia MORALES, Buenos Aires,alimentos,Café en Grano 1kg,10,1260763.66,Transferencia,02/01/2024
+VTA-1015,CLI-002,juan perez,Rosario ,INDUMENTARIA,Buzo Canguro,1,-141065.07,Tarjeta de Crédito,2024-05-03
+VTA-1019,CLI-005,CARLOS GOMEZ,la plata,Hogar,Silla Ergonómica,1,119412.74,Tarjeta de Crédito,2024/06/24
+VTA-1030,CLI-003,carlos gomez,CORDOBA,alimentos,Té Verde Premium,1,114725.11,tarjeta de debito,2024/03/02
+VTA-1090,CLI-001,carlos gomez,Buenos Aires,indumentaria,Campera Invierno,1,0.0,Mercado Pago,2024-06-06
+VTA-1117,CLI-007,lucia morales,,hogar,Lámpara LED,1,134861.06,Mercado Pago,29/01/2024
+VTA-1137,CLI-008,Carlos Gomez,la plata,INDUMENTARIA,Zapatillas Running,2,124394.05,tarjeta de debito,15/03/2024
+VTA-1018,CLI-002,Juan PEREZ,buenos aires,INDUMENTARIA,Zapatillas Running,1,22181.9,tarjeta de debito,2024/05/12
+VTA-1012,CLI-003,JUAN PEREZ,mendoza,HOGAR ,Lámpara LED,1,136111.11,Mercado Pago,25/01/2024
+VTA-1009,CLI-004,juan perez,Mendoza,Hogar,Cafetera Express,1,135086.82,EFECTIVO,18/06/2024
+VTA-1024,CLI-003,juan perez,Córdoba,Alimentos,Té Verde Premium,1,,tarjeta de debito,2024-06-24
+VTA-1069,CLI-001,lucia morales,CORDOBA,ELECTRONICA ,Teclado Mecánico,1,110861.97,EFECTIVO,2024/06/29
+VTA-1131,CLI-009, Juan Perez ,Rosario ,Indumentaria,Remera Algodón,5,142581.64,EFECTIVO,2024/05/20
+VTA-1095,CLI-003,ANA FERNANDEZ ,Buenos Aires,hogar,Aspiradora Robot,1,68687.27,Tarjeta de Crédito,19/03/2024
+VTA-1045,CLI-003,Maria Lopez  ,Buenos Aires,Hogar,Lámpara LED,4,328378.32,EFECTIVO,2024-04-06
+VTA-1086,CLI-007,Martin Rodriguez,Rosario ,alimentos,Caja Alfajores x12,1,51024.63,Mercado Pago,2024-03-28
+VTA-1084,CLI-007,Martin Rodriguez,buenos aires,ELECTRONICA ,Smart TV 50,1,120723.74,Tarjeta de Crédito,2024-04-13
+VTA-1126,CLI-009, Juan Perez , Buenos Aires,,Aspiradora Robot,1,79371.95,EFECTIVO,26/01/2024
+VTA-1096,CLI-008,lucia morales,Buenos Aires,INDUMENTARIA,Buzo Canguro,1,22417.27,Tarjeta de Crédito,2024/02/06
+VTA-1122,CLI-005,  Lucia MORALES,BUENOS AIRES ,Alimentos,Café en Grano 1kg,1,85378.91,tarjeta de debito,2024/03/19
+VTA-1082,CLI-001,lucia morales,La Plata,HOGAR ,Aspiradora Robot,1,9632.1,Mercado Pago,2024-04-22
+VTA-1109,CLI-007,ana fernandez,rosario,ELECTRONICA ,Teclado Mecánico,2,126143.36,Tarjeta de Crédito,2024/02/19
+VTA-1065,CLI-005,carlos gomez,Córdoba,HOGAR ,Aspiradora Robot,2,48304.1,Mercado Pago,2024-06-18
+VTA-1051,CLI-002,Carlos Gomez,Mendoza,hogar,Cafetera Express,1,61026.44,Transferencia,16/04/2024
+VTA-1026,CLI-004,CARLOS GOMEZ, Cordoba ,alimentos,Caja Alfajores x12,2,76801.27,tarjeta de debito,2024/03/21
+VTA-1133,CLI-009,martin rodriguez,Mendoza,alimentos,Aceite de Oliva 500ml,2,283996.29,tarjeta de debito,2024-01-15
+VTA-1076,CLI-008,MARIA LOPEZ ,buenos aires,INDUMENTARIA,Campera Invierno,2,,Tarjeta de Crédito,2024/03/17
+VTA-1056,CLI-002,martin rodriguez,BUENOS AIRES ,ALIMENTOS ,Café en Grano 1kg,1,76624.47,Tarjeta de Crédito,09/04/2024
+VTA-1036,CLI-004,MARTIN RODRIGUEZ, Cordoba ,Indumentaria,Remera Algodón,1,20432.07,tarjeta de debito,
+VTA-1124,CLI-004,ANA FERNANDEZ ,BUENOS AIRES ,INDUMENTARIA,Buzo Canguro,3,349997.55,Tarjeta de Crédito,2024/06/27
+VTA-1022,CLI-009,MARIA LOPEZ,MENDOZA,ALIMENTOS ,Café en Grano 1kg,2,268486.1,tarjeta de debito,2024-02-06
+VTA-1055,CLI-006,lucia morales,Córdoba,indumentaria,Buzo Canguro,1,88555.13,tarjeta de debito,
+VTA-1085,CLI-009,ANA FERNANDEZ ,la plata,ALIMENTOS ,Caja Alfajores x12,4,8751.42,EFECTIVO,2024-04-07
+VTA-1011,CLI-008,MARIA LOPEZ, Cordoba ,indumentaria,Zapatillas Running,1,82217.6,Tarjeta de Crédito,2024/02/09
+VTA-1141,CLI-003,Martin Rodriguez, Buenos Aires,alimentos,Aceite de Oliva 500ml,3,298050.62,Tarjeta de Crédito,2024-06-23
+VTA-1066,CLI-008, Juan Perez ,Rosario ,Alimentos,Café en Grano 1kg,2,174157.64,Mercado Pago,2024-05-17
+VTA-1119,CLI-006,Juan PEREZ,rosario,ELECTRONICA ,Monitor 24,10,298171.27,EFECTIVO,02/02/2024
+VTA-1027,CLI-009,lucia morales,Rosario ,indumentaria,Remera Algodón,1,111976.02,Mercado Pago,23/04/2024
+VTA-1079,CLI-008,MARIA LOPEZ ,Córdoba,Indumentaria,Buzo Canguro,1,78547.45,tarjeta de debito,2024-01-13
+VTA-1144,CLI-008,Carlos Gomez,Rosario ,,Mouse Gamer,1,35814.61,Mercado Pago,27/01/2024
+VTA-1041,CLI-002,martin rodriguez,la plata,INDUMENTARIA,Remera Algodón,2,217509.01,Transferencia,2024-05-26
+VTA-1004,CLI-007,  Lucia MORALES,BUENOS AIRES ,indumentaria,Campera Invierno,1,70207.95,Tarjeta de Crédito,2024-05-02
+VTA-1032,CLI-005,lucia morales,cordoba,ALIMENTOS ,Té Verde Premium,3,156897.42,Mercado Pago,2024-04-24
+VTA-1134,CLI-003,JUAN PEREZ,BUENOS AIRES , Electrónica,Smart TV 50,4,-227745.73,Tarjeta de Crédito,28/04/2024
+VTA-1143,CLI-006,juan perez,Rosario,indumentaria,Zapatillas Running,1,34462.87,EFECTIVO,2024/01/22
+VTA-1067,CLI-009,MARTIN RODRIGUEZ,La Plata,INDUMENTARIA,Zapatillas Running,2,,tarjeta de debito,08/06/2024
+VTA-1016,CLI-008,Ana Fernandez,,INDUMENTARIA,Remera Algodón,1,94714.65,Transferencia,2024-02-07
+VTA-1123,CLI-006,Ana Fernandez,la plata,,Aceite de Oliva 500ml,2,22515.47,Tarjeta de Crédito,2024/06/08
+VTA-1010,CLI-008,juan perez,Buenos Aires,HOGAR ,Aspiradora Robot,2,117015.69,Mercado Pago,09/01/2024
+VTA-1113,CLI-005,JUAN PEREZ, Buenos Aires,indumentaria,Zapatillas Running,1,89914.68,Transferencia,2024-06-12
+VTA-1146,CLI-004,  Lucia MORALES,CORDOBA,hogar,Cafetera Express,2,8854.03,Tarjeta de Crédito,2024/05/05
+VTA-1101,CLI-005,  Lucia MORALES,Mendoza,Hogar,Lámpara LED,1,55315.49,Mercado Pago,2024/01/17
+VTA-1000,CLI-007,Ana Fernandez, ROSARIO ,,Cafetera Express,1,59778.1,EFECTIVO,2024-04-07
+VTA-1110,CLI-001,MARTIN RODRIGUEZ,buenos aires, Electrónica,Monitor 24,1,14174.43,Transferencia,14/01/2024
+VTA-1064,CLI-002,carlos gomez,mendoza,hogar,Cafetera Express,1,106524.94,EFECTIVO,2024-01-23
+VTA-1044,CLI-008,MARIA LOPEZ ,,ALIMENTOS ,Café en Grano 1kg,2,209102.69,tarjeta de debito,01/04/2024
+VTA-1097,CLI-006,martin rodriguez, Cordoba ,alimentos,Café en Grano 1kg,2,55386.93,Transferencia,22/01/2024
+VTA-1028,CLI-003,lucia morales,Rosario ,INDUMENTARIA,Zapatillas Running,4,25918.27,Tarjeta de Crédito,09/02/2024
+VTA-1040,CLI-005,Maria Lopez  ,rosario,Alimentos,Café en Grano 1kg,1,35543.83,EFECTIVO,2024/01/06
+VTA-1104,CLI-005,Ana Fernandez,buenos aires,Alimentos,Café en Grano 1kg,1,3444.53,EFECTIVO,2024/05/24
+VTA-1025,CLI-007,maria lopez,Buenos Aires,electronica,Auriculares Bluetooth,3,143372.18,Mercado Pago,2024/01/28
+VTA-1023,CLI-001,martin rodriguez,,Alimentos,Café en Grano 1kg,2,237213.37,Tarjeta de Crédito,2024-02-29
+VTA-1108,CLI-003,maria lopez, Cordoba ,ELECTRONICA ,Teclado Mecánico,1,-23576.42,tarjeta de debito,2024/04/29
+VTA-1039,CLI-009,martin rodriguez,,electronica,Teclado Mecánico,1,23762.74,Tarjeta de Crédito,
+VTA-1012,CLI-003,JUAN PEREZ,mendoza,HOGAR ,Lámpara LED,1,136111.11,Mercado Pago,25/01/2024
+VTA-1098,CLI-003,MARIA LOPEZ ,rosario,ALIMENTOS ,Café en Grano 1kg,4,302030.46,,27/05/2024
+VTA-1005,CLI-003,MARIA LOPEZ,LA PLATA , Electrónica,Mouse Gamer,2,92509.23,tarjeta de debito,2024-01-29
+VTA-1136,CLI-006,Martin Rodriguez,la plata,Indumentaria,Remera Algodón,1,97133.93,EFECTIVO,2024/06/05
+VTA-1047,CLI-004,MARIA LOPEZ ,MENDOZA,ELECTRONICA ,Auriculares Bluetooth,2,105671.71,EFECTIVO,28/02/2024
+VTA-1111,CLI-004,MARIA LOPEZ ,Rosario,indumentaria,Zapatillas Running,2,299071.65,Transferencia,2024-06-23
+VTA-1061,CLI-009,Ana Fernandez,Córdoba,ELECTRONICA ,Smart TV 50,2,170844.56,EFECTIVO,2024/02/14
+VTA-1073,CLI-008,martin rodriguez,rosario,ALIMENTOS ,Caja Alfajores x12,2,36631.7,Mercado Pago,2024-03-22
+VTA-1033,CLI-009, Juan Perez ,Mendoza,hogar,Cafetera Express,2,246913.42,tarjeta de debito,07/03/2024
+VTA-1148,CLI-001,JUAN PEREZ,MENDOZA,indumentaria,Buzo Canguro,1,120287.54,Transferencia,2024-01-21
+VTA-1125,CLI-007,maria lopez,La Plata,Indumentaria,Campera Invierno,2,137626.78,tarjeta de debito,2024/02/27
+VTA-1062,CLI-008,MARIA LOPEZ,MENDOZA,,Té Verde Premium,3,314857.94,,27/02/2024
+VTA-1105,CLI-007,MARTIN RODRIGUEZ,LA PLATA ,alimentos,Café en Grano 1kg,1,100035.3,Transferencia,2024-05-17
+VTA-1094,CLI-005,JUAN PEREZ,BUENOS AIRES ,Hogar,Aspiradora Robot,3,104561.45,Tarjeta de Crédito,29/02/2024
+VTA-1053,CLI-006,Maria Lopez  ,La Plata,Electrónica,Mouse Gamer,1,142171.58,,2024-03-29
+VTA-1005,CLI-003,MARIA LOPEZ,LA PLATA , Electrónica,Mouse Gamer,2,92509.23,tarjeta de debito,2024-01-29
+VTA-1127,CLI-007,carlos gomez,LA PLATA ,alimentos,Té Verde Premium,1,66953.27,Mercado Pago,22/06/2024
+VTA-1114,CLI-007,Lucia Morales,LA PLATA ,Electrónica,Smart TV 50,2,22921.71,Mercado Pago,2024/06/28
+VTA-1049,CLI-008,CARLOS GOMEZ,,ALIMENTOS ,Aceite de Oliva 500ml,1,136404.91,Transferencia,2024-06-17
+VTA-1035,CLI-002,Juan PEREZ,BUENOS AIRES ,ALIMENTOS ,Té Verde Premium,1,127198.17,EFECTIVO,09/02/2024
+VTA-1080,CLI-003,martin rodriguez,Mendoza,ALIMENTOS ,Aceite de Oliva 500ml,1,89304.4,Tarjeta de Crédito,15/02/2024
+VTA-1077,CLI-003,Juan PEREZ,, Electrónica,Smart TV 50,1,138245.02,Transferencia,12/01/2024
+VTA-1034,CLI-007,martin rodriguez,MENDOZA,HOGAR ,Aspiradora Robot,1,17928.81,Transferencia,2024/02/25
+VTA-1046,CLI-001,Martin Rodriguez,Buenos Aires,hogar,Lámpara LED,2,77784.32,,2024/02/28
+VTA-1007,CLI-008,  Lucia MORALES,CORDOBA,Hogar,Aspiradora Robot,1,76153.98,Tarjeta de Crédito,2024/06/01
+VTA-1043,CLI-007,JUAN PEREZ,Rosario,Hogar,Aspiradora Robot,1,96710.42,Mercado Pago,
+VTA-1070,CLI-009, Juan Perez , Buenos Aires,HOGAR ,Cafetera Express,1,140253.5,Transferencia,06/06/2024
+VTA-1112,CLI-004,juan perez,CORDOBA,electronica,Smart TV 50,1,76075.96,EFECTIVO,29/01/2024
+VTA-1091,CLI-007,Juan PEREZ, ROSARIO ,Indumentaria,Remera Algodón,1,53022.55,Tarjeta de Crédito,14/03/2024
+VTA-1083,CLI-005, Juan Perez ,La Plata,Electrónica,Smart TV 50,1,51276.79,Tarjeta de Crédito,17/01/2024
+VTA-1139,CLI-005,MARIA LOPEZ ,Mendoza,electronica,Monitor 24,3,,tarjeta de debito,2024/02/01
+VTA-1140,CLI-001,ANA FERNANDEZ ,la plata,alimentos,Aceite de Oliva 500ml,1,107821.88,tarjeta de debito,2024-05-09
+VTA-1089,CLI-002,lucia morales,Buenos Aires,Electrónica,Smart TV 50,10,1380985.59,tarjeta de debito,
+VTA-1008,CLI-005,  Lucia MORALES, Buenos Aires, Electrónica,Teclado Mecánico,4,143934.34,Transferencia,2024-03-16
+VTA-1013,CLI-006,JUAN PEREZ,La Plata,,Aceite de Oliva 500ml,1,94199.34,Tarjeta de Crédito,2024-01-05
+VTA-1059,CLI-008,JUAN PEREZ,Córdoba,hogar,Cafetera Express,4,524041.6,Transferencia,07/01/2024
+VTA-1132,CLI-004,JUAN PEREZ,la plata,INDUMENTARIA,Remera Algodón,1,129475.16,Transferencia,2024/02/08
+VTA-1003,CLI-005, Juan Perez ,rosario,alimentos,Aceite de Oliva 500ml,1,57476.25,,2024/03/07
+VTA-1017,CLI-006,maria lopez,buenos aires,HOGAR ,Aspiradora Robot,1,51233.48,EFECTIVO,12/03/2024
+VTA-1038,CLI-002,MARTIN RODRIGUEZ,Mendoza,indumentaria,Buzo Canguro,2,239796.72,tarjeta de debito,31/03/2024
+VTA-1072,CLI-009,JUAN PEREZ,Córdoba,ALIMENTOS ,Aceite de Oliva 500ml,2,136899.29,Tarjeta de Crédito,2024-06-07
+VTA-1135,CLI-007, Juan Perez ,Rosario,INDUMENTARIA,Campera Invierno,1,41705.58,Mercado Pago,29/01/2024
+VTA-1006,CLI-007,  Lucia MORALES,,Alimentos,Café en Grano 1kg,1,112519.99,Tarjeta de Crédito,2024/05/16
+VTA-1128,CLI-001,MARIA LOPEZ,la plata,Indumentaria,Zapatillas Running,1,,Mercado Pago,29/01/2024
+VTA-1100,CLI-003, Juan Perez ,Rosario ,ALIMENTOS ,Té Verde Premium,2,274709.23,tarjeta de debito,08/03/2024
+VTA-1002,CLI-008,juan perez,CORDOBA,ELECTRONICA ,Mouse Gamer,1,66711.53,Tarjeta de Crédito,14/04/2024
+VTA-1120,CLI-002, Juan Perez ,Córdoba,HOGAR ,Cafetera Express,1,6927.63,tarjeta de debito,13/05/2024
+VTA-1063,CLI-005,MARIA LOPEZ,la plata,alimentos,Café en Grano 1kg,1,138491.16,tarjeta de debito,2024/01/31
+VTA-1115,CLI-007,JUAN PEREZ,Mendoza,Electrónica,Teclado Mecánico,1,112869.13,Mercado Pago,2024/05/04
+VTA-1054,CLI-004,lucia morales,CORDOBA,HOGAR ,Aspiradora Robot,1,24272.68,Mercado Pago,2024-06-29
+VTA-1107,CLI-009,maria lopez,la plata, Electrónica,Smart TV 50,1,144218.94,Mercado Pago,2024-01-22
+VTA-1050,CLI-004,Martin Rodriguez, Cordoba ,Electrónica,Monitor 24,2,176267.36,Tarjeta de Crédito,2024-01-13
+VTA-1025,CLI-007,maria lopez,Buenos Aires,electronica,Auriculares Bluetooth,3,143372.18,Mercado Pago,2024/01/28
+VTA-1058,CLI-004,juan perez,, Electrónica,Mouse Gamer,1,4189.36,tarjeta de debito,14/06/2024
+VTA-1048,CLI-002,JUAN PEREZ,buenos aires,Indumentaria,Remera Algodón,1,28467.26,tarjeta de debito,17/02/2024
+VTA-1088,CLI-008, Juan Perez ,BUENOS AIRES ,alimentos,Té Verde Premium,1,81303.25,Transferencia,11/06/2024
+VTA-1021,CLI-006,maria lopez,cordoba,HOGAR ,Lámpara LED,1,,tarjeta de debito,2024-05-25
+VTA-1057,CLI-002,  Lucia MORALES,Rosario , Electrónica,Mouse Gamer,1,92300.95,Mercado Pago,03/06/2024
+VTA-1149,CLI-004,carlos gomez,La Plata,Electrónica,Teclado Mecánico,4,112055.53,Mercado Pago,2024-02-16
+VTA-1129,CLI-001,  Lucia MORALES,CORDOBA,alimentos,Té Verde Premium,4,338426.36,Tarjeta de Crédito,04/01/2024
+VTA-1037,CLI-009, Juan Perez ,La Plata,INDUMENTARIA,Zapatillas Running,1,60497.16,EFECTIVO,2024-02-09
+VTA-1145,CLI-009,juan perez,Rosario,Alimentos,Caja Alfajores x12,3,303828.22,Mercado Pago,2024/03/21
+VTA-1001,CLI-004,Maria Lopez  ,La Plata,Hogar,Silla Ergonómica,1,122765.02,EFECTIVO,2024/01/11
+VTA-1052,CLI-006, Juan Perez ,Buenos Aires, Electrónica,Mouse Gamer,1,70107.86,Mercado Pago,2024/02/14
+VTA-1130,CLI-009,ANA FERNANDEZ ,Córdoba,Hogar,Cafetera Express,3,73659.53,Tarjeta de Crédito,2024/04/08
+VTA-1103,CLI-001,lucia morales,mendoza,Hogar,Lámpara LED,1,95391.25,Mercado Pago,29/05/2024
+VTA-1099,CLI-001,Maria Lopez  , ROSARIO ,ALIMENTOS ,Aceite de Oliva 500ml,2,127420.86,EFECTIVO,05/04/2024
+VTA-1116,CLI-004,MARIA LOPEZ, ROSARIO ,Hogar,Lámpara LED,1,32670.98,EFECTIVO,2024-01-07
+VTA-1087,CLI-009,juan perez,LA PLATA ,indumentaria,Buzo Canguro,2,121256.1,tarjeta de debito,2024-04-18
+VTA-1074,CLI-001,CARLOS GOMEZ,Córdoba,electronica,Auriculares Bluetooth,1,147748.92,Mercado Pago,2024-04-09
+VTA-1121,CLI-009,  Lucia MORALES,Rosario,indumentaria,Zapatillas Running,3,214805.82,Tarjeta de Crédito,2024/04/20
+VTA-1078,CLI-001,maria lopez,,alimentos,Aceite de Oliva 500ml,1,130679.61,Tarjeta de Crédito,08/02/2024
+VTA-1020,CLI-001,  Lucia MORALES,rosario,ELECTRONICA ,Smart TV 50,1,93580.8,Mercado Pago,30/03/2024
+VTA-1071,CLI-007,martin rodriguez,Buenos Aires,ELECTRONICA ,Mouse Gamer,1,,Mercado Pago,
+VTA-1106,CLI-007,ANA FERNANDEZ ,BUENOS AIRES ,Hogar,Aspiradora Robot,2,55876.68,EFECTIVO,2024/04/27
+VTA-1014,CLI-005,MARTIN RODRIGUEZ,mendoza,Hogar,Cafetera Express,1,0.0,tarjeta de debito,2024/05/18
+VTA-1092,CLI-007,JUAN PEREZ,Córdoba,Electrónica,Monitor 24,5,555094.68,Tarjeta de Crédito,03/03/2024
+VTA-1102,CLI-003,JUAN PEREZ,Rosario ,,Lámpara LED,3,263152.11,Mercado Pago,12/01/2024
