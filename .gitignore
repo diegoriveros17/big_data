@@ -1,0 +1,4 @@
+env
+.env
+__marimo__/
+**/__marimo__/
