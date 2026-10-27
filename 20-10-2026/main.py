@@ -1,31 +1,18 @@
 import marimo
 
-__generated_with = "0.25.1"
+__generated_with = "0.25.2"
 app = marimo.App(width="medium")
 
 
 @app.cell
 def _():
-    return
-
-
-@app.cell
-def _():
+    import os
     import sqlalchemy
-    DATABASE_URL = "mysql+pymysql://root:@localhost:3306/northwind"
+
+    _password = os.environ.get("postgres_password")
+    DATABASE_URL = f"postgresql://postgres:{_password}@localhost:5432/northwind"
     engine = sqlalchemy.create_engine(DATABASE_URL)
     return (engine,)
-
-
-@app.cell
-def _():
-    # import os
-    # import sqlalchemy
-
-    # _password = os.environ.get("postgres_password")
-    # DATABASE_URL = f"postgresql://postgres:{_password}@localhost:5432/northwind"
-    # engine = sqlalchemy.create_engine(DATABASE_URL)
-    return
 
 
 @app.cell
@@ -95,7 +82,7 @@ def _(engine, mo):
 def _(engine, mo):
     _df = mo.sql(
         f"""
-        SELECT product_name, unit_price FROM products WHERE unit_price > 20 ORDER BY unit_price ASC
+        SELECT product_name, unit_price FROM products WHERE unit_price > 20 ORDER BY unit_price DESC
         """,
         engine=engine
     )
@@ -106,7 +93,7 @@ def _(engine, mo):
 def _(engine, mo):
     _df = mo.sql(
         f"""
-        SELECT company_name, city, country FROM customers WHERE country LIKE '%Germany%'
+        SELECT company_name, city, country FROM customers ORDER BY company_name ASC
         """,
         engine=engine
     )
@@ -241,38 +228,8 @@ def _(engine, mo):
     _df = mo.sql(
         f"""
         BEGIN;
-        """,
-        engine=engine
-    )
-    return
-
-
-@app.cell
-def _(engine, mo):
-    _df = mo.sql(
-        f"""
-        UPDATE products SET unit_price = 30.00 WHERE product_id = 78;
-        """,
-        engine=engine
-    )
-    return
-
-
-@app.cell
-def _(engine, mo):
-    _df = mo.sql(
-        f"""
+        UPDATE products SET unit_price = 30.0 WHERE product_id = 78;
         SELECT product_id, product_name, unit_price FROM products WHERE product_id = 78;
-        """,
-        engine=engine
-    )
-    return
-
-
-@app.cell
-def _(engine, mo):
-    _df = mo.sql(
-        f"""
         ROLLBACK;
         """,
         engine=engine
